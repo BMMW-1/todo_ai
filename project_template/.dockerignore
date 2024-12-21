@@ -6,3 +6,7 @@
 .DS_Store
 
 envs
+
+.coverage
+
+docs/build
